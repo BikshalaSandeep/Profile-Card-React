@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BikshalaSandeep/Profile-Card-React/static/css/main.f575b6c7.css",
+    "main.js": "/BikshalaSandeep/Profile-Card-React/static/js/main.09fbcca4.js",
+    "static/media/profileicon.jpg": "/BikshalaSandeep/Profile-Card-React/static/media/profileicon.f41903e2c29133553501.jpg",
+    "index.html": "/BikshalaSandeep/Profile-Card-React/index.html",
+    "main.f575b6c7.css.map": "/BikshalaSandeep/Profile-Card-React/static/css/main.f575b6c7.css.map",
+    "main.09fbcca4.js.map": "/BikshalaSandeep/Profile-Card-React/static/js/main.09fbcca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f575b6c7.css",
+    "static/js/main.09fbcca4.js"
+  ]
+}
